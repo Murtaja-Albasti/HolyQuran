@@ -44,6 +44,11 @@ Thank you for your interest in contributing to Quran Explorer! We value every co
 - Stay Respectful: Maintain a respectful tone when interacting with other contributors.
 
 ## Issues & Suggestions 🐛
-If you find a bug or have a suggestion, feel free to open an issue here. Make sure to include a detailed description.
+If you find a bug or have a suggestion, feel free to open an issue [here](https://github.com/Murtaja-Albasti/HolyQuran/issues). Make sure to include a detailed description.
+
+##Need Help? 🤔
+Feel free to reach out via email or open a discussion in the repository.
 
 
+
+##Thank you for making Quran Explorer better for everyone! 💖
