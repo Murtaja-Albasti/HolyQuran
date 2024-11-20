@@ -3,9 +3,9 @@
 <footer class="footer mt-4 bg-base-300 text-base-content p-10">
     <nav>
         <h6 class="footer-title">about the Quran web</h6>
-        <a class="link link-hover">Developed by<span class="text-primary"> Murtaja</span></a>
-        <a class="link link-hover">Source code repo. </a>
-        <a class="link link-hover">Contributing page on github</a>
+        <a href="https://github.com/Murtaja-Albasti/" class="link link-hover">Developed by<span class="text-primary"> Murtaja</span></a>
+        <a href="https://github.com/Murtaja-Albasti/HolyQuran/" class="link link-hover">Source code repo. </a>
+        <a href="https://github.com/Murtaja-Albasti/HolyQuran/blob/master/CONTRIBUTING.md" class="link link-hover">Contributing page on github</a>
     </nav>
 
     <nav>

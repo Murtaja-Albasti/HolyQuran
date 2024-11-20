@@ -1,5 +1,5 @@
 <template>
-<div class="h-full">
+<div class="h-full mt-5">
     <h1 class="text-4xl text-center mb-6">{{ surah?.name }}</h1>
     <p class="text-center mb-6">{{ surah?.englishNameTranslation }}</p>
     <div class="flex flex-wrap flex-row-reverse gap-4 justify-center">
@@ -23,7 +23,7 @@ import {
 } from 'vue-router'
 
 definePageMeta({
-  layout: 'Surahlayout', // Use the surah-specific layout
+  layout: 'surah', // Use the surah-specific layout
 })
 
 const route = useRoute()

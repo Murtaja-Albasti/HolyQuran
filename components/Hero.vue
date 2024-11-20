@@ -6,9 +6,9 @@
             <div class="max-w-md">
                 <h1 class="mb-5 text-xl font-normal text-end"><span class="text-gold glow">رسول الله (صلى الله عليه وآله)</span>: إن أردتم عيش السعداء وموت الشهداء والنجاة يوم الحسرة والظل يوم الحرور والهدى يوم الضلالة فادرسوا القرآن، فإنه كلام الرحمن وحرز من الشيطان ورجحان في الميزان .</h1>
                 <p class="mb-5">
-                    developed by <span class="text-primary">Murtaja</span>
+                    developed by <span class="text-primary ">Murtaja</span>
                 </p>
-                <NuxtLink :href="`#api`"> <button v-on:click="" class="btn btn-primary">Get Started</button></NuxtLink>
+                <NuxtLink :href="`#api`"> <button v-on:click="" class="btn btn-primary noto-naskh-arabic-othmanni text-xl">إقرأ و إرتق</button></NuxtLink>
             </div>
         </div>
     </div>
