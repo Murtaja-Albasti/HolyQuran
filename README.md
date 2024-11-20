@@ -35,7 +35,7 @@ Quran app is a modern web application built to provide users with an interactive
    ```
 4.Open the app in your browser at http://localhost:3000.
 
-##How to Use 🖥️
+## How to Use 🖥️
 1. Navigate to the homepage to browse all Surahs.
 2. Click on a Surah to view its verses.
 3. Use the search bar to find specific Surahs by name.
@@ -44,20 +44,20 @@ Quran app is a modern web application built to provide users with an interactive
 ##Contribution Guidelines 🤝
 We welcome contributions from the community to improve Quran Explorer. Please refer to the [CONTRIBUTING.md](https://github.com/Murtaja-Albasti/HolyQuran/blob/master/CONTRIBUTING.md) file for guidelines on how to contribute.
 
-##License 📄
+## License 📄
 This project is licensed under the MIT License.
 
-##Screenshots 🌟
-###Homepage
+## Screenshots 🌟
+### Homepage
 ![image](https://github.com/user-attachments/assets/8ef9c94e-d341-4fda-a76f-bf7cd84397fa)
 
-###Surahs Details
+### Surahs Details
 ![image](https://github.com/user-attachments/assets/3b628c49-702e-41c3-9f0b-97cbbfc33b5f)
 
-###Surah Page
+### Surah Page
 ![image](https://github.com/user-attachments/assets/5cd4a407-28cd-4225-935e-6afd1ee27ba2)
 
-##Contact 📬
+## Contact 📬
 Feel free to reach out for questions or suggestions:
 
 - Developer: Murtaja Albasti
