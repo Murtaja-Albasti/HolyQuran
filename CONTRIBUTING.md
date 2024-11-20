@@ -9,7 +9,7 @@ Thank you for your interest in contributing to Quran Explorer! We value every co
 - Click the "Fork" button at the top right of this repository.
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/Murtaja-Albasti/quran-explorer.git
+  git clone https://github.com/Murtaja-Albasti/HolyQuran.git
   cd quran-explorer
   ```
   ### 2. Create a Branch 🌿
