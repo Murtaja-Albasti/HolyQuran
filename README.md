@@ -23,7 +23,7 @@ Quran app is a modern web application built to provide users with an interactive
 1. Clone this repository:
    ```bash
    git clone https://github.com/Murtaja-Albasti/HolyQuran.git
-   cd quran-explorer
+   cd HolyQuran
    ```
 2. Install dependencies:
     ```bash
