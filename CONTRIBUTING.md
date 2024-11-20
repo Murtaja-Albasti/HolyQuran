@@ -12,11 +12,11 @@ Thank you for your interest in contributing to Quran Explorer! We value every co
   git clone https://github.com/your-username/quran-explorer.git
   cd quran-explorer
   ```
-  ###2. Create a Branch 🌿
+  ### 2. Create a Branch 🌿
   ```bash
   git checkout -b feature/your-feature-name
   ```
-  ###3. Make Changes 📝
+  ### 3. Make Changes 📝
   - Make your changes
   - Test your changes to ensure everything works as expected.
  
