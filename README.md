@@ -24,4 +24,4 @@ Quran Explorer is a modern web application built to provide users with an intera
    ```bash
    git clone https://github.com/your-username/quran-explorer.git
    cd quran-explorer
-   ```bash
+   ```
