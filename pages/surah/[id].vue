@@ -23,7 +23,7 @@ import {
 } from 'vue-router'
 
 definePageMeta({
-  layout: 'surah', // Use the surah-specific layout
+  layout: 'Surahlayout', // Use the surah-specific layout
 })
 
 const route = useRoute()
