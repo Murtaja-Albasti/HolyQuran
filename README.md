@@ -1,6 +1,6 @@
-# Quran Explorer 🌙📖
+# Holy Quran 🌙📖
 
-Quran Explorer is a modern web application built to provide users with an interactive and intuitive way to explore the Holy Quran. Whether you're looking to read Surahs, search for specific verses, or learn more about the structure of the Quran, Quran Explorer is designed to make it easy and enjoyable for everyone.
+Quran app is a modern web application built to provide users with an interactive and intuitive way to explore the Holy Quran. Whether you're looking to read Surahs, search for specific verses, or learn more about the structure of the Quran, this web is designed to make it easy and more readable for everyone.
 
 ## Features 🚀
 
@@ -25,3 +25,24 @@ Quran Explorer is a modern web application built to provide users with an intera
    git clone https://github.com/your-username/quran-explorer.git
    cd quran-explorer
    ```
+2. Install dependencies:
+    ```bash
+   npm install
+   ```
+3. Start the development server:
+ ```bash
+   npm run dev
+   ```
+4.Open the app in your browser at http://localhost:3000.
+
+How to Use 🖥️
+1. Navigate to the homepage to browse all Surahs.
+2. Click on a Surah to view its verses.
+3. Use the search bar to find specific Surahs by name.
+4. Enjoy seamless navigation and a distraction-free reading experience.
+
+Contribution Guidelines 🤝
+We welcome contributions from the community to improve Quran Explorer. Please refer to the [CONTRIBUTING.md]() file for guidelines on how to contribute.
+
+License 📄
+This project is licensed under the MIT License.
