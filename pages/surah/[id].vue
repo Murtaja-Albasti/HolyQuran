@@ -32,7 +32,7 @@ const surah = ref(null)
 onMounted(async () => {
     try {
         // Fetch the entire Quran data
-        const response = await $fetch('http://api.alquran.cloud/v1/quran/quran-uthmani')
+        const response = await $fetch('/api/surahs')
 
         // Extract Surah by ID
         const surahId = parseInt(route.params.id)
