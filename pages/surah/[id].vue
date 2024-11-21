@@ -22,9 +22,9 @@ import {
     useRoute
 } from 'vue-router'
 
-definePageMeta({
-  layout: 'Surahlayout', // Use the surah-specific layout
-})
+// definePageMeta({
+//   layout: 'Surahlayout', // Use the surah-specific layout
+// })
 
 const route = useRoute()
 const surah = ref(null)
@@ -32,7 +32,7 @@ const surah = ref(null)
 onMounted(async () => {
     try {
         // Fetch the entire Quran data
-        const response = await $fetch('/api/surahs')
+        const response = await $fetch('http://api.alquran.cloud/v1/quran/quran-uthmani')
 
         // Extract Surah by ID
         const surahId = parseInt(route.params.id)
