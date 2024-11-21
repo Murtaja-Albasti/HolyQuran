@@ -26,7 +26,7 @@ const searchQuery = ref('')
 // Fetch data on component mount
 onMounted(async () => {
   try {
-    const data = await $fetch('http://api.alquran.cloud/v1/surah')
+    const data = await $fetch('/api/quran')
     quran.value = data.data
     console.log(quran.value)
   } catch (error) {
